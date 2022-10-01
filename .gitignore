@@ -1,0 +1,8 @@
+.vscode
+**.exe
+**.class
+**/**.i.java
+**/**.ini
+**-sort-template*
+Temp
+BankPrograms
